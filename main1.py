@@ -20,3 +20,4 @@ if __name__ == "__main__":
 
     balance = calculate_balance(balance, 200, "withdraw")
     print("取款后余额：", balance)
+    print("Git 第二次提交练习完成！")
